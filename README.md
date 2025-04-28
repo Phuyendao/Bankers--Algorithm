@@ -91,3 +91,4 @@ void calculate_need() {
     }
 ```
 ## Program output
+![Program output](https://github.com/user-attachments/assets/d14aefde-e216-4d8d-adb3-0d55e28aaca3)
